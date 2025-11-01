@@ -1,0 +1,11 @@
+{
+    "dart.flutterSdkPath": "D:\\SOFTWARES\\flutter_windows_3.29.2-stable\\flutter",
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
+    "flutter.debugExternalPackageLibraries": true,
+    "flutter.debugSdkLibraries": false
+}
